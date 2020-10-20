@@ -4,7 +4,7 @@
 
 It’s super quick to get a [PHP-Prefixer](https://php-prefixer.com/) project up and running. Install any library freely. PHP-Prefixer will manage your namespaces.
 
-- **Use the same libraries across all platforms**: Develop your solutions using the same libraries for all the platforms you work in, specifically Joomla, Joomla, Drupal, Laravel, Symfony, Slim Framework, etc.
+- **Use the same libraries across all platforms**: Develop your solutions using the same libraries for all the platforms you work in, specifically WordPress, Joomla, Drupal, Laravel, Symfony, Slim Framework, etc.
 - **Composer + Joomla**: Use Composer for your Joomla projects. PHP-Prefixer will process the dependencies to run smoothly along with other third-party plug-ins.
 - **Fully integrated with Git**: Declare your name space configuration and let the service produce the packages. No local installation. No Phars. No new dependencies.
 
