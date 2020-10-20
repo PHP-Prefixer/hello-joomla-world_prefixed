@@ -10,9 +10,9 @@ It’s super quick to get a [PHP-Prefixer](https://php-prefixer.com/) project up
 
 ## The prefixed project results
 
-This is the source project to be prefixed.
+This is the prefixed project.
 
-The prefixed results can be found in this repository: https://github.com/PHP-Prefixer/hello-joomla-world_prefixed
+The source project can be found in this repository: https://github.com/PHP-Prefixer/hello-joomla-world
 
 ## Documentation
 
